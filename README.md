@@ -28,6 +28,10 @@ This is my running list of fellowships that can help you fund your graduate scho
 
 Apply in years 1,2</li>
 
+<li><a href="https://www.outreachy.org/docs/internship/">Outreachy Internship</a>
+
+Apply in years 1,2</li>
+
 <li><a href="https://www.microsoft.com/en-us/research/academic-program/phd-fellowship-program/">Microsoft Graduate Fellowship</a>
 
 Apply in years 1,2</li>
